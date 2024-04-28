@@ -27,7 +27,7 @@ client.on('ready', async () => {
 
 
     .setStartTimestamp(Date.now())
-    .setAssetsLargeImage('https://media.discordapp.net/attachments/1073180119151149098/1180845720996159518/amv-anime.gif?ex=65eda546&is=65db3046&hm=727d3bf62a98d04d2ebf8251&')
+    .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1073180119151149098/1180845720996159518/amv-anime.gif?ex=662f9046&is=662e3ec6&hm=e9a76b14b993010a8de7951dbbbac84ff9f3a49094fd4e277de88930e650a350&8d04d2ebf8251&')
     
     .setAssetsLargeText('Join us')
     //.setAssetsSmallImage('https://media.discordapp.net/attachments/906047691337908274/1102089096031121538/20210504_182139.gif')
