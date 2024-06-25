@@ -27,7 +27,7 @@ client.on('ready', async () => {
 
 
     .setStartTimestamp(Date.now())
-    .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1073180119151149098/1234212369241079930/image0.gif?ex=662fe957&is=662e97d7&hm=e079a6a0592b8bac3a2f9656bd336e211610ce101c78431eed1993af788a219e&')
+    .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1073180119151149098/1255253555904905286/genshin-genshin-impact.gif?ex=667c7579&is=667b23f9&hm=05226ed2576a71088855eef0790176cb1ef4c72bee0695c934b58af89f37774d&')
     
     .setAssetsLargeText('Join us')
     //.setAssetsSmallImage('https://media.discordapp.net/attachments/906047691337908274/1102089096031121538/20210504_182139.gif')
